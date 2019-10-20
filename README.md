@@ -2,8 +2,10 @@
 This python script convert multiple PPT files to PDF files.
 
 HOW TO USE
-This step is needed only once.
-0. Install "comtypes" package by typing.
+
+0. This step is needed only once. 
+Install "comtypes" package by typing.
+
 > pip intall comtypes
 
 1. Put your PPT files and python script(ppt2pdf.py) on same folder(or directory).
