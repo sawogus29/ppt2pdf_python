@@ -1,5 +1,5 @@
 # ppt2pdf_python
-This python script convert ppt file to pdf file. This script works only on windows PC where MS Office is installed.
+This python script convert multiple PPT files to PDF files.
 
 HOW TO USE
 
